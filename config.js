@@ -1,5 +1,5 @@
 title: 'Khuê ơi, tớ là Hùng đây. bạn có thích tớ khum?? 😙',
-    desc: 'chọn câu trả lời phía dưới nhé :33,
+    desc: 'chọn câu trả lời phía dưới nhé:33,
     btnYes: 'có, tớ thích bạn lắm<33',
     btnNo: 'Không, ảo tưởng à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao bạn lại thích tớ <3',
